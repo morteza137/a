@@ -1,5 +1,5 @@
-import telebot
-from telebot import types
+import iranmbot
+from iranmbot import types
 import requests
 import simplejson as json
 
